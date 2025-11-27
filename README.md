@@ -54,10 +54,6 @@
   </a>
   &nbsp;
 
-  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer" title="Plastic SCM (Unity Version Control)"> 
-    <img src="https://img.icons8.com/color/48/000000/plastic-scm.png" alt="plasticscm" width="40" height="40"/> 
-  </a>
-  &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
