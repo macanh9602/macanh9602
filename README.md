@@ -35,30 +35,50 @@
 
 
 
-<p align="left"> 
+<p align="left">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" title="Unity (Main Engine)"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C# (Main Language)"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code (Main Editor)"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" title="Visual Studio"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
+  </a>
+  &nbsp;
 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer" title="Plastic SCM"> 
+    <img src="https://image.spreadshirtmedia.net/image-server/v1/designs/1045953046,width=178,height=178.png" alt="plasticscm" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  &nbsp;
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  
+  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer" title="Aseprite (2D Art)"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Aseprite_logo.png" alt="aseprite" width="40" height="40"/> 
+  </a>
 </p>
 
 
