@@ -102,5 +102,3 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macanh9602&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=macanh9602&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
