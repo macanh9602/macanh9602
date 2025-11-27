@@ -12,7 +12,7 @@
 
 * 💬 Ask me about **Unity, C#**
 
-* 📫 How to reach me **ducanhmac113@gmail.com(mailto:EMAIL_CỦA_BẠN@gmail.com)**
+* 📫 How to reach me **ducanhmac113@gmail.com**
 
 
 
