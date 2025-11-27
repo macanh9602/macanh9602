@@ -54,8 +54,8 @@
   </a>
   &nbsp;
 
-  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer" title="Plastic SCM"> 
-    <img src="https://image.spreadshirtmedia.net/image-server/v1/designs/1045953046,width=178,height=178.png" alt="plasticscm" width="40" height="40"/> 
+  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer" title="Plastic SCM (Unity Version Control)"> 
+    <img src="https://img.icons8.com/color/48/000000/plastic-scm.png" alt="plasticscm" width="40" height="40"/> 
   </a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
@@ -77,7 +77,7 @@
   &nbsp;
   
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer" title="Aseprite (2D Art)"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Aseprite_logo.png" alt="aseprite" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/aseprite/7D929E" alt="aseprite" width="40" height="40"/> 
   </a>
 </p>
 
