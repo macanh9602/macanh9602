@@ -1,11 +1,5 @@
 # Hi 👋, I'm MAC DUC ANH
 
-
-
-### On a journey to understand the virtual world
-
-
-
 [![Profile views](https://komarev.com/ghpvc/?username=macanh9602&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/macanh9602)
 
 
