@@ -1,5 +1,6 @@
  <h1 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1976D2&width=435&lines=(+%5E_____%5E+)+Hi!!;I'm+DucAnhMac;aka+Macbook+%3AD" alt="Typing SVG" /></a> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=1976D2&width=435&lines=(+%5E_____%5E+)+Hi!!;I'm+DucAnhMac;aka+Macbook+%3AD" alt="Typing SVG" /></a> 
+ </h1>
 
 [![Profile views](https://komarev.com/ghpvc/?username=macanh9602&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/macanh9602)
 
