@@ -1,3 +1,7 @@
+ <h1 align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7A2&width=435&lines=Hello+word+!!;I'm+DucAnhMac;aka+!MacBuildFail" alt="Typing SVG" /></a>
+</h1>
+
 # Hi 👋, I'm MAC DUC ANH
 
 [![Profile views](https://komarev.com/ghpvc/?username=macanh9602&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/macanh9602)
@@ -87,10 +91,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=macanh9602&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macanh9602&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macanh9602&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
